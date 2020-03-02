@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dice">
+    <output-path>$PROJECT_DIR$/out/artifacts/dice</output-path>
+    <root id="archive" name="dice.jar">
+      <element id="module-output" name="03_jar" />
+    </root>
+  </artifact>
+</component>

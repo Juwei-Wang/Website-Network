@@ -1,0 +1,6 @@
+<Circle>
+    <origin>
+        <Point x="3" y="4" />
+    </origin>
+    <radius>2</radius>
+</Circle>

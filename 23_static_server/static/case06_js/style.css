@@ -1,0 +1,53 @@
+body {
+    margin: 0px;
+}
+
+p {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+
+input {
+    border: none;
+    outline: none;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.05)
+}
+
+.list {
+    padding: 16px;
+}
+
+.item {
+    margin-bottom: 16px;
+    padding: 16px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.item input {
+    height: 20px;
+    width: 100%;
+    border: none;
+}
+
+
+.item p {
+    height: 20px;
+}
+
+
+input, p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+p::selection {
+    background-color: none;
+}
+
+.item {
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+}
